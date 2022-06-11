@@ -1,0 +1,25 @@
+{
+    "name": "Pedidos Pizza",
+    "short_name": "Pedidos Pizza",
+    "description": "Página web de pedidos de pizza",
+    "background_color": "#212529",
+    "theme_color": "#212529",
+    "orientation": "portrait",
+    "display": "standalone",
+    "id": "./?utm_source=web_app_manifest",
+    "start_url": "./?utm_source=web_app_manifest",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./img/icono2.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icono1.png",
+            "sizes": "100x100",
+            "type": "image/png"
+        }
+    ]
+}

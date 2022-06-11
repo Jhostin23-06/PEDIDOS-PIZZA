@@ -1,0 +1,76 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "COMBO COMBINADOS (2 Pizzas Personales + 2 Bebidas Personales)",
+        "precio": 21.90,
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "BANQUETE FAMILIAR (1 Pizza Familiar + 6 Palitos a la Siciliana + 1 Bebida 1L)",
+        "precio": 44.90,
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "HUT COMBO MEDIANO (1 Pizza Mediana + 3 Alitas en tu salsa favorita + 1 Gaseosa Personal)",
+        "precio": 23.90,
+        "categoria": 1
+      },
+      {
+        "id": 4,
+        "nombre": "COMBO HUT CHEESE (1 Pizza Familiar Hut Cheese + 1 Bebida 1L)",
+        "precio": 46.90,
+        "categoria": 1
+      },
+      {
+        "id": 5,
+        "nombre": "COMBO MEDIANO (1 Pizza Mediana + 1 Gaseosa Personal)",
+        "precio": 19.90,
+        "categoria": 1
+      },
+      {
+        "id": 6,
+        "nombre": "HUT COMPLETO MEDIANO (2 Pizzas Medianas + 6 Palitos a la Siciliana + 1 Bebida 1L)",
+        "precio": 39.90,
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "DUO PIZZA ROLL FULL MEAT (1 Pizza Roll Full Meat + 1 Gaseosa Personal)",
+        "precio": 15.90,
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "BANQUETE GRANDE (1 Pizza Grande + 6 Palitos a la Siciliana + 1 Gaseosa de 1L)",
+        "precio": 34.90,
+        "categoria": 1
+      },
+      {
+        "id": 9,
+        "nombre": "¡LA PREVIA! (1 Pizza Grande Americana, Peperoni o Mix de Carnes + 1 Gaseosa 1L)",
+        "precio": 29.90,
+        "categoria": 1
+      },
+      {
+        "id": 10,
+        "nombre": "¡FIESTA CON GASEOSA! (3 Pizzas Grandes en Americana + 1 Bebida 1L)",
+        "precio": 79.90,
+        "categoria": 1
+      },
+      {
+        "id": 11,
+        "nombre": "¡FIESTA CON PALITOS! (3 Pizzas Grandes en Americana + 6 Palitos a la Siciliana)",
+        "precio": 79.90,
+        "categoria": 1
+      },
+      {
+        "id": 12,
+        "nombre": "¡AFTER PARTY! (1 Pizza Familiar + 8 Hut Breads de Queso + 3 Panes al ajo + 1 Bebida 1L)",
+        "precio": 49.90,
+        "categoria": 1
+      }
+    ]
+  }

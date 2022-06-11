@@ -1,0 +1,26 @@
+{
+  "name": "calculadora-propinas",
+  "version": "1.0.0",
+  "description": "es una paginas de pedidos y calcula",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jhostin23-06/PEDIDOS-PIZZA.git"
+  },
+  "keywords": [
+    "JSon",
+    "Server"
+  ],
+  "author": "Jhostin Bravo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jhostin23-06/PEDIDOS-PIZZA/issues"
+  },
+  "homepage": "https://github.com/Jhostin23-06/PEDIDOS-PIZZA#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
