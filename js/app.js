@@ -60,7 +60,7 @@ function mostrarSecciones() {
 }
 
 function obtenerPlatillos() {
-    const url = 'http://localhost:4000/platillos';
+    const url = 'https://pedidos-pizza.herokuapp.com/platillos';
 
     fetch(url)
         .then( respuesta => respuesta.json() )
